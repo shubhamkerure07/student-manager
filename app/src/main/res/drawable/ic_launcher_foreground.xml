@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap / Academic Symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 L26,39 L54,52 L82,39 Z" />
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M36,44.5 L36,58 C36,65.7 44.1,72 54,72 C63.9,72 72,65.7 72,58 L72,44.5 L54,53 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M80,39 L80,56 C78.5,56 77,57.5 77,59 L77,65 C77,66.5 78.5,68 80,68 C81.5,68 83,66.5 83,65 L83,59 C83,57.5 81.5,56 80,56 Z" />
+    <!-- Mini chart bars / checklist accent at bottom -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M32,77 L38,77 L38,84 L32,84 Z" />
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M42,73 L48,73 L48,84 L42,84 Z" />
+    <path
+        android:fillColor="#F472B6"
+        android:pathData="M52,69 L58,69 L58,84 L52,84 Z" />
+    <path
+        android:fillColor="#A78BFA"
+        android:pathData="M62,65 L68,65 L68,84 L62,84 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M72,61 L78,61 L78,84 L72,84 Z" />
+</vector>
