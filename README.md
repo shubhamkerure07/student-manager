@@ -9,7 +9,20 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Material_3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Room Database](https://img.shields.io/badge/Room_DB-SQLite-0284C7?style=for-the-badge&logo=sqlite&logoColor=white)](https://developer.android.com/training/data-storage/room)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshubhamkerure07%2Fstudent-manager)
 [![License: MIT](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](LICENSE)
+
+</div>
+
+---
+
+## 🌐 Instant Live Web Simulator & Vercel Deploy
+
+Even though StudentHub is a native Kotlin Android application, the repository includes a responsive **Material 3 interactive web simulator** (`web-preview/`) preconfigured with [`vercel.json`](vercel.json) for instant cloud deployment:
+
+<div align="center">
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshubhamkerure07%2Fstudent-manager)
 
 </div>
 
