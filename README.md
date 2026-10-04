@@ -5,6 +5,7 @@
 **All-in-One Android Academic Planner, Attendance Guardian & Expense Tracker**  
 *Engineered with Kotlin and Jetpack Compose to eliminate student chaos with automated lecture alarms, attendance tracking, custom canvas spending graphs, and offline persistence.*
 
+[![Live Website](https://img.shields.io/badge/Live_Website-student--manager.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://student-manager-phi-lyart.vercel.app/)
 [![Platform: Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Material_3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
@@ -16,13 +17,17 @@
 
 ---
 
-## 🌐 Instant Live Web Simulator & Vercel Deploy
+## 🌐 Live Production Website & Web Simulator
 
-Even though StudentHub is a native Kotlin Android application, the repository includes a responsive **Material 3 interactive web simulator** (`web-preview/`) preconfigured with [`vercel.json`](vercel.json) for instant cloud deployment:
+The application is deployed live on Vercel:
+
+> ### 🎓 **Official Live URL:** **[https://student-manager-phi-lyart.vercel.app/](https://student-manager-phi-lyart.vercel.app/)**
+>
+> *Experience the interactive Android student planner, attendance tap logger, weekly spending graph, and college essentials checklist directly in your browser.*
 
 <div align="center">
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshubhamkerure07%2Fstudent-manager)
+[![Visit Live App](https://img.shields.io/badge/Open_Live_App-student--manager.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://student-manager-phi-lyart.vercel.app/)
 
 </div>
 
