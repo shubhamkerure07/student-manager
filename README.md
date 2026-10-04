@@ -28,6 +28,20 @@ Even though StudentHub is a native Kotlin Android application, the repository in
 
 ---
 
+## 📸 Visual Interface Showcase
+
+<div align="center">
+
+| 📊 Academic Dashboard | 🕒 Timetable & Auto-Alarms |
+| :---: | :---: |
+| <img src="docs/screenshots/01_student_dashboard.png" width="100%" alt="Student Dashboard" /> | <img src="docs/screenshots/02_lecture_timetable.png" width="100%" alt="Lecture Timetable" /> |
+| **🛡️ Attendance Guardian** | **💰 Canvas Spending Graph** |
+| <img src="docs/screenshots/03_attendance_guardian.png" width="100%" alt="Attendance Guardian" /> | <img src="docs/screenshots/04_canvas_spending_graph.png" width="100%" alt="Canvas Spending Graph" /> |
+
+</div>
+
+---
+
 ## 📖 Overview
 
 University life requires balancing multiple priorities: tracking strict attendance minimums, managing class timetables, keeping track of daily college supplies, and managing a tight student budget.
